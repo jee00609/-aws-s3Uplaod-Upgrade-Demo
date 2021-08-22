@@ -6,7 +6,7 @@
 
 브라우저에서 이미지와 오디오를 선택하여 AWS S3 버킷에 이미지를 업로드하는 프로젝트
 
-[이전 이미지만을 업로드하는 프로젝트](https://github.com/jee00609/aws-s3Uplaod-Demo) 에서 기능을 추가하여 만들었다.
+이전에 만든 [이미지만을 업로드하는 프로젝트](https://github.com/jee00609/aws-s3Uplaod-Demo) 에서 기능을 추가하여 만들었다.
 
 ## IDE / Dependency
 
