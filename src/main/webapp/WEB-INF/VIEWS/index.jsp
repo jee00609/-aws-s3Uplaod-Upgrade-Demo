@@ -27,7 +27,7 @@
             visibility: hidden;
         }
     </style>
-    <title>Image Uploader | IT15555854</title>
+    <title>Image And Audio Uploader | IT15555854</title>
 </head>
 <body>
 <div id="progress" class="progress">
@@ -48,7 +48,7 @@
     <div class="content">
         <div class="row">
             <div class="col-10 offset-1 col-sm-8 offset-sm-2 col-md-6 offset-md-3 align-self-center">
-                <h1 class="text-center title">Image Uploader</h1>
+                <h1 class="text-center title">Image / Audio Uploader</h1>
 
                 <form method="POST" action="/upload" enctype="multipart/form-data">
                     <div class="input-group mb-3">
